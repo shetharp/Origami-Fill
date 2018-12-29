@@ -7,3 +7,6 @@ Input a photo of your choice and Origami-Fill will use the colors from the photo
 This is a [Gimp](http://gimp.org) python plug-in.
 To install, move `origamifill.py` to your Gimp plug-ins folder.
 This is typically located in `<USER>/.gimp-2.8/plug-ins/`
+
+## Examples
+!["Example Work](https://github.com/shetharp/Origami-Fill/blob/master/example-work.jpg)
