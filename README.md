@@ -10,3 +10,6 @@ This is typically located in `<USER>/.gimp-2.8/plug-ins/`
 
 ## Examples
 !["Example Work](https://github.com/shetharp/Origami-Fill/blob/master/example-work.jpg)
+
+---
+Made in collaboration with [Justin Selig](https://github.com/JustinSelig) for Computing in the Arts at Cornell University
